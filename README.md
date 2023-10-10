@@ -6,6 +6,10 @@
 ## Scenario
 You are in charge of deploying the new version of the application. The QA engineer will send 14,000 requests to the server. After the QA engineer tests your application, they will update you about the results.
 
+# Version 1
+
+For steps and explanation regarding version 1, click [here](https://github.com/Jmo-101/Nginx_Jenkins_Flask/blob/main/README.md).
+
 # QA’s Activities:
 
 The QA was in charge of stressing out the new application (URL Shortener) I had deployed. The QA sent 14,000 requests to our URL shortener to see if the application was capable of holding that much traffic.
